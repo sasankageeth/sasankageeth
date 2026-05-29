@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&width=650&height=45&lines=📊+Power+BI+•+SQL+•+Python+•+Tableau+•+Excel;🎓+M.S.+Business+Analytics+@+UT+Arlington;🔍+EDA+•+Dashboards+•+Predictive+Modeling;🚀+Open+to+Data+%26+Business+Analyst+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=64FFDA&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%8A+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+Excel;%F0%9F%8E%93+M.S.+Business+Analytics+%40+UT+Arlington;%F0%9F%94%8D+EDA+%E2%80%A2+Dashboards+%E2%80%A2+Predictive+Modeling;%F0%9F%9A%80+Open+to+Data+%26+Business+Analyst+Roles" alt="Typing SVG" />
 </div>
 
 <br/>
