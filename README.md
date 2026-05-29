@@ -1,118 +1,125 @@
-# Hi, I'm Sasanka Geetanath Gorthi 👋
+<h1 align="center">Hi 👋, I'm Sasanka Geetanath Gorthi</h1>
+<h3 align="center">Data Analyst | Business Analytics Graduate | Power BI • SQL • Python • Excel</h3>
 
-## Data Analyst | Business Analytics Graduate | Turning Data into Actionable Insights
-
-I'm a Data Analyst with an M.S. in Business Analytics and a strong foundation in SQL, Python, Power BI, Excel, and Machine Learning. I enjoy transforming complex datasets into meaningful insights, building interactive dashboards, and solving business problems through data-driven decision-making.
-
-### 🎯 What I Do
-- Analyze and interpret large datasets to identify trends and opportunities
-- Build KPI dashboards and reports using Power BI and Excel
-- Perform data cleaning, transformation, and exploratory data analysis (EDA)
-- Develop predictive models using Machine Learning techniques
-- Translate business requirements into actionable analytical solutions
+<p align="center">
+  Turning raw data into actionable business insights 📊
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+<img align="right" alt="Data Analytics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdrZzN4MHBvNDFnMjk2bWJxYzBnMWY4eDZoYWQ4MjJtMXl4dTR6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-### Data Analysis & Visualization
-- Power BI
-- Tableau
-- Excel
-- Data Storytelling
-- KPI Reporting
-- Dashboard Development
+## 🚀 About Me
+
+🎓 Master's in Business Analytics from the University of Texas at Arlington
+
+📊 Passionate about Data Analytics, Business Intelligence, and Machine Learning
+
+💡 Experienced in Power BI, SQL, Python, Excel, Tableau, and Data Storytelling
+
+📈 Building dashboards, predictive models, and data-driven solutions
+
+🌱 Currently learning Data Engineering, Cloud Analytics, and Advanced SQL
+
+🎯 Seeking opportunities as a Data Analyst / Business Analyst
+
+---
+
+## 🛠️ Tech Stack
+
+### Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
 
 ### Programming & Databases
-- SQL
-- Python
-- R
-- MySQL
-- Snowflake
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-### Data Science & Machine Learning
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Classification Models
-- Regression Models
-- Random Forest
-- Clustering
-
-### Business Analytics
-- Business Intelligence
-- Process Improvement
-- Root Cause Analysis
-- Trend Analysis
-- Performance Reporting
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📊 Featured Projects
+## 📂 Featured Projects
 
 ### ✈️ TripAI Aviation Analytics
-**Business Analytics Capstone Project**
+📊 KPI-driven aviation analytics dashboard
 
-- Developed KPI-driven dashboards to analyze aviation performance metrics
-- Built interactive visualizations to support operational decision-making
-- Conducted data analysis to identify trends and improve business insights
-- Presented actionable recommendations through data storytelling
+✅ Interactive Power BI dashboards
+
+✅ Performance trend analysis
+
+✅ Data-driven recommendations
+
+---
+
+### 🌎 World Layoffs Data Analysis
+📈 SQL-based exploratory data analysis project
+
+✅ Data cleaning
+
+✅ Data standardization
+
+✅ Trend analysis
+
+✅ Business insights
+
+---
 
 ### 🤖 Machine Learning Classification Project
-- Performed end-to-end machine learning workflow
-- Data preprocessing and feature engineering
-- Model development using Random Forest, Logistic Regression, and Decision Trees
-- Achieved strong predictive performance through model evaluation and optimization
 
-### 📈 Data Analytics Projects
-- SQL Data Analysis
-- Business Intelligence Dashboards
-- Customer and Marketing Analytics
-- Exploratory Data Analysis Projects
-- Data Visualization and Reporting
+✅ Random Forest
 
----
+✅ Logistic Regression
 
-## 💼 Professional Experience
+✅ Decision Trees
 
-### Sales & Marketing Intern | Winfo Solutions
-**Mar 2022 – Jul 2023**
+✅ Feature Engineering
 
-- Analyzed customer and campaign data to identify trends and support data-driven decision-making.
-- Developed Excel dashboards and KPI reports to monitor performance metrics.
-- Improved prospect engagement through data-driven lead analysis.
-- Collaborated with cross-functional teams to optimize outreach strategies.
-- Performed data validation and reporting quality checks to ensure data accuracy.
+✅ Model Evaluation
 
 ---
 
-## 🎓 Education
+## 📈 GitHub Stats
 
-### Master of Science in Business Analytics
-University of Texas at Arlington
-
-### Bachelor of Technology in Computer Science & Engineering
-
----
-
-## 🌱 Currently Learning
-- Advanced SQL Optimization
-- Data Engineering Fundamentals
-- Cloud Analytics
-- Machine Learning Model Deployment
-- Git & GitHub Best Practices
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sasankageeth&show_icons=true&theme=tokyonight"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankageeth&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-- LinkedIn: www.linkedin.com/in/sasankageetanathgorthi
-- Email: gorthisasankageetanath@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sasankageeth&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📌 Career Interests
+## 🌐 Connect With Me
 
-Data Analyst | Business Analyst | Business Intelligence Analyst | Data Scientist
+<p align="left">
+<a href="https://www.linkedin.com/in/sasankageetanathgorthi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Passionate about using data to drive better business decisions, improve operational efficiency, and uncover meaningful insights.
+<a href="mailto:gorthisasankageetanath@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 💡 Fun Fact
+
+"Without data, you're just another person with an opinion." — W. Edwards Deming
+
+⭐ Feel free to explore my repositories and connect with me!
