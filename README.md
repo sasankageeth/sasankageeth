@@ -132,6 +132,23 @@ Comparative study of classification algorithms on real-world data with full mode
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sasankageeth/sasankageeth/snake-output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sasankageeth/sasankageeth/snake-output/snake.svg"/>
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/sasankageeth/sasankageeth/snake-output/snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
