@@ -15,17 +15,30 @@
 
 ## 🧠 About Me
 
-```python
-analyst = {
-    "name": "Sasanka Geetanath Gorthi",
-    "education": "M.S. Business Analytics — University of Texas at Arlington",
-    "roles": ["Data Analyst", "Business Analyst"],
-    "skills": ["SQL", "Python", "Power BI", "Excel", "Tableau"],
-    "focus": ["Business Intelligence", "Data Storytelling", "Predictive Modeling"],
-    "currently_learning": ["Advanced SQL", "Cloud Analytics", "Data Engineering"],
-    "open_to": "Full-time Data Analyst / Business Analyst opportunities"
-}
-````
+🎓 **M.S. in Business Analytics** — University of Texas at Arlington
+
+📊 **Data Analyst & Business Analyst** passionate about transforming raw data into actionable business insights.
+
+💡 Skilled in:
+- SQL
+- Python
+- Power BI
+- Excel
+- Tableau
+
+📈 Areas of Interest:
+- Business Intelligence
+- Data Visualization
+- Data Storytelling
+- Predictive Analytics
+- Machine Learning
+
+🌱 Currently Learning:
+- Advanced SQL
+- Data Engineering
+- Cloud Analytics
+
+🚀 Open to full-time Data Analyst and Business Analyst opportunities.
 
 ---
 
