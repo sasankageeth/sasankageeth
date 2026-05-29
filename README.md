@@ -129,38 +129,6 @@ Comparative study of classification algorithms on real-world data with full mode
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sasankageeth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankageeth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sasankageeth&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasankageeth&theme=tokyo-night&hide_border=true&area=true&area_color=64ffda&line=64ffda&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sasankageeth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
