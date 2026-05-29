@@ -112,47 +112,6 @@ Machine learning project comparing classification models and evaluating performa
 </td>
 <td width="50%" valign="top">
 
-### 📦 Coming Soon
-
-**Cloud Analytics · Data Engineering**
-
-Upcoming project focused on ETL, cloud analytics, and scalable reporting.
-
-* ETL pipeline design
-* Cloud data warehousing
-* Dashboard reporting
-* Performance optimization
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sasankageeth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankageeth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=sasankageeth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sasankageeth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
