@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sasanka%20Geetanath%20Gorthi&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=55&descSize=16&descColor=8b949e"/>
