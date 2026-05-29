@@ -1,154 +1,192 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sasanka%20Geetanath%20Gorthi&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=55&descSize=16&descColor=8b949e"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Analyst;MS+Business+Analytics+%40+UTA;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+Into+Insights;Machine+Learning+%7C+Predictive+Modeling" alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sasankageeth&label=Profile%20Views&color=58a6ff&style=flat-square" />
-<img src="https://img.shields.io/github/followers/sasankageeth?label=Followers&style=flat-square&color=58a6ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sasanka%20Geetanath%20Gorthi&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Storytelling%20with%20Data&descAlignY=56&descSize=17&descColor=a8b2d8"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&width=650&height=45&lines=📊+Power+BI+•+SQL+•+Python+•+Tableau+•+Excel;🎓+M.S.+Business+Analytics+@+UT+Arlington;🔍+EDA+•+Dashboards+•+Predictive+Modeling;🚀+Open+to+Data+%26+Business+Analyst+Roles" alt="Typing SVG" />
+</div>
 
-## 🧠 About Me
-
-🎓 **M.S. in Business Analytics** — University of Texas at Arlington
-
-📊 **Data Analyst & Business Analyst** passionate about transforming raw data into actionable business insights.
-
-💡 Skilled in:
-- SQL
-- Python
-- Power BI
-- Excel
-- Tableau
-
-📈 Areas of Interest:
-- Business Intelligence
-- Data Visualization
-- Data Storytelling
-- Predictive Analytics
-- Machine Learning
-
-🌱 Currently Learning:
-- Advanced SQL
-- Data Engineering
-- Cloud Analytics
-
-🚀 Open to full-time Data Analyst and Business Analyst opportunities.
-
----
-
-## ⚡ Tech Stack & Tools
+<br/>
 
 <div align="center">
 
-### 📊 Analytics & Visualization
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-### 💻 Programming & Data
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-### 🛠️ Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=sasankageeth&label=Profile%20Views&color=64ffda&style=for-the-badge)](https://github.com/sasankageeth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasankageetanathgorthi/)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorthisasankageetanath@gmail.com)
 
 </div>
 
 ---
 
-## 🗂️ Featured Projects
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 👨‍💻 About Me
 
-### ✈️ TripAI Aviation Analytics
+```yaml
+Name     : Sasanka Geetanath Gorthi
+Degree   : M.S. Business Analytics @ UTA
+Role     : Data Analyst | Business Analyst
+Location : Texas, USA 📍
 
-**Power BI · KPI Dashboards · Business Intelligence**
-
-Aviation analytics project focused on business insights, KPI tracking, and dashboard storytelling.
-
-* Interactive Power BI dashboards
-* KPI tracking and performance analysis
-* Trend analysis and business recommendations
-* Stakeholder-focused reporting
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 World Layoffs Data Analysis
-
-**SQL · Data Cleaning · EDA · Trend Analysis**
-
-SQL project focused on cleaning, standardizing, and analyzing global layoffs data.
-
-* Data cleaning and deduplication
-* Standardization of messy data
-* Industry and country-level analysis
-* Business insights using SQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning Classification Project
-
-**Python · Scikit-Learn · Predictive Modeling**
-
-Machine learning project comparing classification models and evaluating performance.
-
-* Random Forest
-* Logistic Regression
-* Decision Trees
-* Feature engineering
-* Model evaluation
-
-</td>
-<td width="50%" valign="top">
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sasankageetanathgorthi/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gorthisasankageetanath@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sasankageeth">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-> “Without data, you're just another person with an opinion.”
-> — W. Edwards Deming
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer"/>
-
-</div>
+Core     : SQL · Python · Power BI · Tableau · Excel
+Learning : Data Engineering · Cloud Analytics
+Goal     : Translate chaos → clarity through data
 ```
+
+<br/>
+
+🏆 **What I bring to the table:**
+
+- 📊 End-to-end dashboard design in **Power BI & Tableau**
+- 🔍 Deep-dive **SQL** analysis — cleaning, modeling, insights
+- 🤖 **ML models** — classification, regression, feature engineering
+- 📢 **Data storytelling** that makes stakeholders act
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| Category | Tools |
+|:---|:---|
+| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### ✈️ TripAI — Aviation Analytics Dashboard
+
+</div>
+
+> **Stack:** Power BI · DAX · Data Modeling · KPI Design
+
+Built an executive-level aviation analytics platform tracking operational performance across routes, airports, and fleets.
+
+| Feature | Detail |
+|:---|:---|
+| 📌 Dashboard Type | Multi-page interactive Power BI report |
+| 📊 KPIs Tracked | On-Time Performance, Load Factor, Revenue/Seat, Delay Root Cause |
+| 🔎 Analysis | Trend detection, outlier flagging, comparative benchmarking |
+| 💡 Impact | Delivered drill-through reports enabling data-driven scheduling decisions |
+
+[![View Project](https://img.shields.io/badge/View%20Project-64ffda?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sasankageeth)
+
+---
+
+<div align="center">
+
+### 🌍 World Layoffs — SQL Data Analysis
+
+</div>
+
+> **Stack:** MySQL · EDA · Data Cleaning · CTEs · Window Functions
+
+Full lifecycle SQL project — from raw, inconsistent data to board-ready insights on global tech layoff trends.
+
+| Phase | Work Done |
+|:---|:---|
+| 🧹 Cleaning | Removed dupes, standardized formats, handled nulls |
+| 🔄 Transformation | Normalized industry/country fields, date parsing |
+| 📈 Analysis | YoY trends, top industries hit, geographic breakdown |
+| 💡 Insights | Identified peak layoff windows and highest-risk sectors |
+
+[![View Project](https://img.shields.io/badge/View%20Project-64ffda?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sasankageeth)
+
+---
+
+<div align="center">
+
+### 🤖 ML Classification Suite
+
+</div>
+
+> **Stack:** Python · Scikit-Learn · Pandas · Feature Engineering · Model Evaluation
+
+Comparative study of classification algorithms on real-world data with full model lifecycle management.
+
+| Component | Detail |
+|:---|:---|
+| 🧠 Models | Random Forest · Logistic Regression · Decision Trees |
+| ⚙️ Engineering | Feature selection, encoding, scaling, cross-validation |
+| 📊 Evaluation | Accuracy, AUC-ROC, Precision, Recall, F1 Score |
+| 🏆 Outcome | Identified best-performing model with hyperparameter tuning |
+
+[![View Project](https://img.shields.io/badge/View%20Project-64ffda?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sasankageeth)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sasankageeth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankageeth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sasankageeth&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="70%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasankageeth&theme=tokyo-night&hide_border=true&area=true&area_color=64ffda&line=64ffda&point=ffffff" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sasankageeth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+*I'm actively looking for Data Analyst / Business Analyst opportunities.*
+*Let's talk data — whether it's a role, a project, or just a great dataset.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasanka%20Gorthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasankageetanathgorthi/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-gorthisasankageetanath%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorthisasankageetanath@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-sasankageeth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasankageeth)
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/><br/>
+
+> *"Without data, you're just another person with an opinion."*
+> &nbsp;— **W. Edwards Deming**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
+
+</div>
