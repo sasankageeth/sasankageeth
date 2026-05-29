@@ -132,40 +132,6 @@ Comparative study of classification algorithms on real-world data with full mode
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- github-readme-stats supports &theme=default for light and tokyonight for dark.
-     Using 'transparent' bg + border_color so it blends on both themes -->
-<img src="https://github-readme-stats.vercel.app/api?username=sasankageeth&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github&icon_color=0969da&title_color=0969da" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankageeth&layout=compact&theme=default&hide_border=false&border_color=d0d7de&border_radius=10&langs_count=8&title_color=0969da" height="175"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sasankageeth&theme=default&hide_border=false&border=d0d7de&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=e25d00&ring=0969da&currStreakLabel=0969da" width="68%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasankageeth&theme=github-compact&hide_border=false&area=true&radius=8" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sasankageeth&theme=flat&no-frame=false&no-bg=false&column=7&margin-w=4" width="100%"/>
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
